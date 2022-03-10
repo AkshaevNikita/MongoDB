@@ -1,4 +1,4 @@
-#Отчет по MongoDB
+#MongoDB
 
 Будем изучать Mongo используя docker.
 
