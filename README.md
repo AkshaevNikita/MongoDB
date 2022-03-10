@@ -36,7 +36,7 @@
 
 ![alt text](https://github.com/AkshaevNikita/MongoDB/blob/main/pic11.jpg?raw=true)
 
-8. Для того, чтобы исследовать производительность индексов, нам нужна база данных побольше (В mydb 200 записей). Cгенерируем базу даных с 1 000 000 записями и импортируем аналогичным образом в Mongo. 
+8. Для того, чтобы исследовать производительность индексов, нам нужна база данных побольше (В mydb 200 записей). Cгенерируем базу даных с 1 000 000 записями и импортируем аналогичным образом в Mongo. (Данные сгенериррованы с помощью python https://github.com/AkshaevNikita/MongoDB/blob/main/generate_data.py)
 
 ![alt text](https://github.com/AkshaevNikita/MongoDB/blob/main/pic12.jpg?raw=true)
 
